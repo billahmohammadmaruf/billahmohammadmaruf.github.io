@@ -1,5 +1,3 @@
-# billahmohammadmaruf.github.io
-A personal portfolio
 # Mohammad Maruf Billah
 
 <div align="center">
